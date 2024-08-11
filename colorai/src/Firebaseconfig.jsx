@@ -9,13 +9,7 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDGXny8VPbhri-fzVIDzInMyZRUim3bqLk",
-  authDomain: "colorai-619f4.firebaseapp.com",
-  databaseURL: "https://colorai-619f4-default-rtdb.firebaseio.com",
-  projectId: "colorai-619f4",
-  storageBucket: "colorai-619f4.appspot.com",
-  messagingSenderId: "504893966490",
-  appId: "1:504893966490:web:3f5b771b4f2b7f27c83723",
+   this info is protected.
 };
 
 // Initialize Firebase
