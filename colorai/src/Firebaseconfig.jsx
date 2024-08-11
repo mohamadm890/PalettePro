@@ -9,7 +9,8 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-   this info is protected.
+   // this info is protected. Make sure sign up firebase then add your firebaseConfig here
+
 };
 
 // Initialize Firebase
