@@ -5,9 +5,8 @@ require("dotenv").config();
 // Access your API key as an environment variable (see "Set up your API key" above)
 const api = process.env.API_KEY;
 const genAI = new GoogleGenerativeAI(api);
-
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 const cors = require("cors");
 app.use(cors());
 app.use(express.json());
